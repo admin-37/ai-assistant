@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Hero12 } from "./components/Hero12";
 import { Console } from "./components/Console";
 
